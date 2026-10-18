@@ -1,21 +1,46 @@
-## Hi there 👋
+# Hey, I'm Aditya Pandey 👋
 
-<!--
-**aditya11-07/aditya11-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | 🚀 Rocket Avionics | ⚡ Embedded Systems
 
-Here are some ideas to get you started:
+I'm a Computer Science & Engineering student at **PSIT, Kanpur**, passionate about building technology that connects software with the real world. From developing web experiences to working on rocket avionics and embedded systems, I enjoy learning by building, experimenting, and solving practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On
+
+- 🚀 Developing avionics and telemetry systems with **Team Vyomnauts**.
+- ⚡ Building embedded projects using **ESP32, Arduino, and sensors**.
+- 💻 Improving my frontend development skills and creating interactive web applications.
+- 🛰️ Exploring aerospace technology, electronics, and real-world engineering challenges.
+
+### 🛠️ Tech Stack
+
+- **Languages:** C, C++, JavaScript
+- **Frontend:** HTML, CSS, JavaScript
+- **Embedded Systems:** ESP32, Arduino, sensor integration
+- **Tools:** Git, GitHub, EasyEDA, PCB Design
+
+### 🎯 Currently Learning
+
+- Modern frontend development
+- Data Structures and Algorithms
+- Embedded systems and avionics
+- Hardware–software integration
+
+### 🤝 Let's Collaborate
+
+I'm open to collaborating on innovative projects, exploring new technologies, and connecting with developers and engineers who love building things.
+
+### 📫 Find Me Online
+
+- **GitHub:** [@aditya11-07](https://github.com/aditya11-07)
+
+---
+
+*Build. Learn. Experiment. Repeat. 🚀*
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="aditya11-07's GitHub profile" src="dark_mode.svg" />
+  <img alt="Aditya's GitHub profile" src="dark_mode.svg" />
 </picture>
