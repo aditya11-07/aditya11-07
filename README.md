@@ -31,9 +31,6 @@ I'm a Computer Science & Engineering student at **PSIT, Kanpur**, passionate abo
 
 I'm open to collaborating on innovative projects, exploring new technologies, and connecting with developers and engineers who love building things.
 
-### 📫 Find Me Online
-
-- **GitHub:** [@aditya11-07](https://github.com/aditya11-07)
 
 ---
 
